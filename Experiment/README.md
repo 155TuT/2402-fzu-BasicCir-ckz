@@ -12,6 +12,6 @@
 ├── direct.html // 仪器使用说明
 ├── guide.html // 实验操作步骤
 ├── ppt.html // 上课时所用ppt
-├── stu.dox // 学生实验文档
+├── stu.docx // 学生实验文档
 ...
 ```
