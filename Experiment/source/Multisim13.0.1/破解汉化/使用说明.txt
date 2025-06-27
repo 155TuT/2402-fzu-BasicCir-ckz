@@ -1,0 +1,19 @@
+破解注册：
+注册文件包含 multisim 13.0.1 的所有版本（Education、Internal、Base、Full、Power Pro），
+也概括了相对应的 Ultiboard 部分版本（Full、Power Pro）。
+将 Licenses 文件下的所有文件复制到 
+C:\ProgramData\National Instruments\License Manager\Licenses 下（Win7 64位系统），
+使用NI License Activator 1.2 来注册破解，
+可以解除注册后再注册（原绿色方块右键解除后成白色，再右键激活后变成绿色）。
+
+
+汉化：
+将 Chinese-simplified 文件夹复制粘贴到相对应的位置下
+X:\******\National Instruments\Circuit Design Suite 13.0\stringfiles\
+
+
+
+
+							multisim 百度贴吧
+							g_zhengming
+							2016年08月20日

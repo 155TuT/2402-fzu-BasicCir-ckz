@@ -1,0 +1,10 @@
+SERVER THIS_HOST ANY 27000
+VENDOR nilm
+PACKAGE Multisim_ProBase_PKG nilm 13.0001 COMPONENTS="Multisim_Core \
+	Multisim_ProBase Multisim_MCUModule:10.0000" SIGN=0851AC66E156
+INCREMENT Multisim_ProBase_PKG nilm 13.0001 permanent uncounted \
+	HOSTID=DISK_SERIAL_NUM=7488b749 \
+	vendor_info="FAMILY=Multisim_Family_130001 TYPE=Application \
+	LABEL=Base Edition \
+	URL=http://digital.ni.com/express.nsf/bycode/exwprx" TS_OK \
+	SIGN=17D8A6A4E66C

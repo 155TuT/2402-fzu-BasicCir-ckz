@@ -1,0 +1,11 @@
+SERVER THIS_HOST ANY 27000
+VENDOR nilm
+PACKAGE Ultiboard_ProPower_PKG nilm 13.0001 \
+	COMPONENTS="Ultiboard_Core Ultiboard_ProPower" \
+	SIGN=87D613D06F82
+INCREMENT Ultiboard_ProPower_PKG nilm 13.0001 permanent uncounted \
+	HOSTID=DISK_SERIAL_NUM=7488b749 \
+	vendor_info="FAMILY=Ultiboard_Family_130001 TYPE=Application \
+	LABEL=Power Pro Edition \
+	URL=http://digital.ni.com/express.nsf/bycode/exi5cc" TS_OK \
+	SIGN=AF3BABD24672

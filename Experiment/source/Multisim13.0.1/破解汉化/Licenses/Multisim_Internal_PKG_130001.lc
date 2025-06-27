@@ -1,0 +1,11 @@
+SERVER THIS_HOST ANY 27000
+VENDOR nilm
+PACKAGE Multisim_Internal_PKG nilm 13.0001 COMPONENTS="Multisim_Core \
+	Multisim_Internal Multisim_MCUModule:10.0000" \
+	SIGN=CCCAAE5A425C
+INCREMENT Multisim_Internal_PKG nilm 13.0001 permanent uncounted \
+	HOSTID=DISK_SERIAL_NUM=7488b749 \
+	vendor_info="FAMILY=Multisim_Family_130001 TYPE=Application \
+	LABEL=Internal Edition \
+	URL=http://digital.ni.com/express.nsf/bycode/exfgdq" TS_OK \
+	SIGN=03C3021AB21C

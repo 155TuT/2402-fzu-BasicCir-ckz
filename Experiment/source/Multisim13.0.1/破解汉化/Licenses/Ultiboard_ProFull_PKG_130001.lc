@@ -1,0 +1,10 @@
+SERVER THIS_HOST ANY 27000
+VENDOR nilm
+PACKAGE Ultiboard_ProFull_PKG nilm 13.0001 COMPONENTS="Ultiboard_Core \
+	Ultiboard_ProFull" SIGN=25EECC9E5D4C
+INCREMENT Ultiboard_ProFull_PKG nilm 13.0001 permanent uncounted \
+	HOSTID=DISK_SERIAL_NUM=7488b749 \
+	vendor_info="FAMILY=Ultiboard_Family_130001 TYPE=Application \
+	LABEL=Full Edition \
+	URL=http://digital.ni.com/express.nsf/bycode/exbvtw" TS_OK \
+	SIGN=56469A7E4362
